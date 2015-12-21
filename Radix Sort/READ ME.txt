@@ -1,0 +1,15 @@
+RADIX SORT ALGORITHM DEMONSTRATION:
+
+	To run this program, import the project into Eclipse IDE Go to File -> Import
+Right click the project, select Run as Java Application
+Open answer.txt to find the output of the execution.
+
+BREAKDOWN OF THE ALGORITHM:
+
+	Each key is first figuratively dropped into one level of buckets corresponding to the value of the rightmost digit. Each bucket preserves the original order of the keys as the keys are dropped into the bucket. There is a one-to-one correspondence between the buckets and the values that can be represented by the rightmost digit. Then, the process repeats with the next neighboring more significant digit until there are no more digits to process. 
+
+COMPILER USED:
+JDK compiler was used to compile n run the program.
+
+PLATFORM USED:
+Windows platform was used.

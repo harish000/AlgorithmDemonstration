@@ -1,0 +1,11 @@
+Bangkok India 1.2
+Bangkok USA 0.5	
+Denmark Bangkok 0.6
+Bangkok Canada 0.25
+Canada India 1.1
+India Denmark 1.6
+USA Canada 0.7
+USA England 0.45
+Canada England 1.3
+Denmark England 0.3
+Canada Denmark 0.67

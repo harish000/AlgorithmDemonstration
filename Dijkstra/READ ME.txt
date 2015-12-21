@@ -1,0 +1,13 @@
+Dijkstras algorithm DEMONSTRATION:
+
+	To run this program, import the project into Eclipse IDE Go to File -> Import
+Right click the project, select Run as Java Application and while execution mention the input file.  ex:  java graph input.java
+
+Open output.txt to find the output of the execution.
+
+
+COMPILER USED:
+JDK compiler was used to compile n run the program.
+
+PLATFORM USED:
+Windows platform was used.
